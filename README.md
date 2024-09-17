@@ -1,5 +1,8 @@
 ## 어서 오게나! - 평범한 인간
 
+![solar0037's GitHub stats](https://github-readme-stats.vercel.app/api?username=solar0037&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=solar0037)](https://solved.ac/solar0037)
+
 ### 기술
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -18,3 +21,8 @@
 - 日本語
 
 ### 하고 싶은 것: '세계 정복'
+
+### 링크
+- [웹사이트](https://solved.ac/profile/solar0037)
+- [GitHub](https://github.com/solar0037)
+- [LinkedIn](https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%82%AC-98b833277/)
