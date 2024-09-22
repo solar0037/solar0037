@@ -3,8 +3,6 @@
 ![solar0037's github stats](https://github-readme-stats.vercel.app/api?username=solar0037&show_icons=true&theme=dark)
 [![solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=solar0037)](https://solved.ac/solar0037)
 
-![background image](./FGO_Artoria_Pendragon_Java_For_Dummies_7.png)
-
 ### 기술
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -35,5 +33,3 @@
 
 ### 링크
 - [웹사이트](https://solved.ac/profile/solar0037)
-- [GitHub](https://github.com/solar0037)
-- [LinkedIn](https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%82%AC-98b833277/)
