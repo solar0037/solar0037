@@ -23,10 +23,11 @@ Welcome to the Dark Lord's throne. I, the Dark Lord from Sagittarius A*, am expl
 - Languages: JA, ZH, ES, FR
 
 ## Projects | 프로젝트
-- [rainfall-datasubject](https://github.com/solar0037/rainfall-datasubject)
-- [whatilearned](https://github.com/solar0037/whatilearned)
-- [Exit](https://github.com/solar0037/Exit)
+- [daily-allocation](https://github.com/solar0037/daily-allocation): Todo App
+- [whatilearned](https://github.com/solar0037/whatilearned): Interactive Visualization of Engineering Concepts
+- [rainfall-datasubject](https://github.com/solar0037/rainfall-datasubject): Rainfall Data Info Website
+- [Exit](https://github.com/solar0037/Exit): Simple Game
 - coming soon...
 
 ## Links | 링크
-- [GitHub](https://github.com/solar0037) | [Kaggle](https://www.kaggle.com/solar0037) | [Website](https://solved.ac/profile/solar0037) | [solved.ac](https://solved.ac/profile/solar0037)
+- [Discord](https://discordapp.com/users/555720974398652436) | [GitHub](https://github.com/solar0037) | [Website](https://solar0037.github.io)
