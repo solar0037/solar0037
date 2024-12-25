@@ -11,21 +11,21 @@ Welcome to the Dark Lord's throne. I, the Dark Lord from Sagittarius A*, am expl
 ## About Dark Lord | 마왕의 정보
 - Name: shall not be asked | 이름: 감히 묻지 말 것
 - Age: 2000+ | 나이: 2000세 이상
-- Tech: AI, Electronics, Web dev | 기술: AI, 전자공학, 웹 개발
+- Tech: Electronics, AI, Web dev | 기술: 전자공학, AI, 웹 개발
 - Hobbies: Music, Piano, Books | 취미: 음악, 피아노, 독서
 - Languages: EN, KO, JA | 언어: 영어, 한국어, 일본어
 
 ## Studying | 공부
-- AI: Deep Learning, NLP
-- CS: Algorithms, Python, C
-- Web dev: JavaScript, Next.js
 - Electronics: EM Fields, Semiconductors
-- Languages: JA, ZH, ES, FR
+- CS: Algorithms, Python, C
+- AI: Deep Learning, NLP
+- Web dev: JavaScript, Next.js
+- Languages: JA, ZH, ES
 
 ## Projects | 프로젝트
+- [electronics-viz](https://github.com/solar0037/electronics-viz): Electronics Handbook
 - [daily-allocation](https://github.com/solar0037/daily-allocation): Todo App
-- [whatilearned](https://github.com/solar0037/whatilearned): Interactive Visualization of Engineering Concepts
-- [rainfall-datasubject](https://github.com/solar0037/rainfall-datasubject): Rainfall Data Info Website
+- [rainfall-datasubject](https://github.com/solar0037/rainfall-datasubject): Rainfall Data Info Web App
 - [Exit](https://github.com/solar0037/Exit): Simple Game
 - coming soon...
 
