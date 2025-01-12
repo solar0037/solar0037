@@ -1,33 +1,32 @@
-## Welcome! | 어서 오게나!
+## Welcome! | [한국어](./README_ko.md)
 
 <img src="./dark_lord.webp" style="width:256px; height:256px;" alt="picture of Dark Lord"></img>
 
-Welcome to the Dark Lord's throne. I, the Dark Lord from Sagittarius A*, am exploring the history and knowledge of humanity. Those who wish to reach out, feel free to contact me!  
-마왕의 옥좌에 온 것을 환영하네. 짐은 궁수자리 A*에서 온 마왕으로, 인간계의 역사와 지식을 탐구하고 있다. 짐에게 관심이 있다면 연락하게!
+Welcome to the Dark Lord's throne. I, the Dark Lord from Sagittarius A*, am exploring the history and knowledge of humanity. Those who wish to reach out, feel free to contact me!
 
 ![solar0037's github stats](https://github-readme-stats.vercel.app/api?username=solar0037&show_icons=true&theme=dark)
 ![solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=solar0037)
 
-## About Dark Lord | 마왕의 정보
-- Name: shall not be asked | 이름: 감히 묻지 말 것
-- Age: 2000+ | 나이: 2000세 이상
-- Tech: Electronics, AI, Web dev | 기술: 전자공학, AI, 웹 개발
-- Hobbies: Music, Piano, Books | 취미: 음악, 피아노, 독서
-- Languages: EN, KO, JA | 언어: 영어, 한국어, 일본어
+## About Dark Lord
+- Name: shall not be asked
+- Age: cannot be calculated
+- Tech: Electronics & Algorithms
+- Hobbies: Music, Piano, Books
+- Languages: English, Korean, Japanese
 
-## Studying | 공부
-- Electronics: EM Fields, Semiconductors
-- CS: Algorithms, Python, C
-- AI: Deep Learning, NLP
+## Studying
+- Electronics: Electromagnetics, Semiconductors
+- Computer Science: Algorithms, Python, C++
+- AI: Deep Learning, LLMs
 - Web dev: JavaScript, Next.js
-- Languages: JA, ZH, ES
+- Languages: Japanese, Spanish
 
-## Projects | 프로젝트
+## Projects
 - [electronics-viz](https://github.com/solar0037/electronics-viz): Electronics Handbook
 - [daily-allocation](https://github.com/solar0037/daily-allocation): Todo App
 - [rainfall-datasubject](https://github.com/solar0037/rainfall-datasubject): Rainfall Data Info Web App
-- [Exit](https://github.com/solar0037/Exit): Simple Game
+- [Exit](https://github.com/solar0037/Exit): Simple Text-based Game
 - coming soon...
 
-## Links | 링크
-- [Discord](https://discordapp.com/users/555720974398652436) | [GitHub](https://github.com/solar0037) | [Website](https://solar0037.github.io)
+## Links
+- [Discord](https://discordapp.com/users/555720974398652436) | [GitHub](https://github.com/solar0037) | [Blog(Korean)](https://blog.naver.com/moy0037)
